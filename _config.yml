@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dong Dekuan"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : 
   location         : "Shanghai, China"
   employer         : 
