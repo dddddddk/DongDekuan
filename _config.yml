@@ -21,7 +21,7 @@ repository               : "dddddddk.github.io/DongDekuan"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Dong Dekuan"
   pronouns         : # "he/him"  
   bio              : 
